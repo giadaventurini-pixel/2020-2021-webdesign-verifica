@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:33:11.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.9" etag="_XkggBiARCr6ID8xNc7z" type="github"><diagram id="INkURycoxmwf_9dYpMNr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:57:51.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Wkx12c7Me8o0zsystxwR" version="14.2.9" type="github">
+  <diagram id="INkURycoxmwf_9dYpMNr" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-12" value="&lt;font&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;MyParking&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Via Caravaggio 12&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;distanza km 1,2&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;5€&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;/h&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="210" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Parkvia&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Via Rossi 18&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;distanza km 2.0&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;4€&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;/h&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="210" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TuttoCittà&lt;br&gt;&lt;/b&gt;Via Ciambella 25&lt;br&gt;distanza km 3.2&lt;br&gt;6€/h&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="352.5" width="210" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-15" value="Paga Online" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="169.38" width="60" height="33.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-16" value="Paga in parcheggio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooJTIBAKXbKxF-ULcssE-17" value="Paga Online" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
